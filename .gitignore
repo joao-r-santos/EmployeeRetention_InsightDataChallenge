@@ -87,3 +87,10 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+# Edit files
+*~
+.*~
+
+# Local files
+Data_Challenge_Employee_Retention.pdf
